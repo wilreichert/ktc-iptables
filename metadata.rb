@@ -10,6 +10,6 @@ version          '0.1.0'
     supports os
 end
 
-depends "etcd", "~> 1.2.4"
-depends "services", "~> 1.0.7"
+depends "etcd"
+depends "services"
 depends "simple_iptables"
